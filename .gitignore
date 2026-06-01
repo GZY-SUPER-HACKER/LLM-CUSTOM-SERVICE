@@ -4,8 +4,6 @@
 .env.*.local
 *.key
 hf_token.txt
-pinecone-api-key.txt
-*.key
 
 # --- Python ---
 __pycache__/
